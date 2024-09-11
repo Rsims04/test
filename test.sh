@@ -2,7 +2,7 @@
 git status
 git log --graph
 
-git checkout test3
+git checkout -B test3
 git status
 
 echo "1" >> package.json
