@@ -7,7 +7,7 @@ git status
 
 echo "1" >> package.json
 git add package.json
-git commit -m "hello"
+git commit -m "hello sir"
 git reset --hard
 
 git checkout main
